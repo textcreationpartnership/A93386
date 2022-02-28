@@ -1,0 +1,575 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heights in depths and depths in heights or Truth no less secretly then sweetly sparkling out its glory from under a cloud of obloquie. Wherein is discovered the various motions of an experienced soul, in and through the manifold dispensations of God. And how the author hath been acted in, and redeemed from the unknown paths of darkness; wherein, as in a wilderness, he hath wandered without the clear vision of a Divine Presence. Together with a sincere abdication of certain tenents, either formerly vented by him, or now charged upon him. Per me Jo. Salmon</title>
+            <author>Salmon, Joseph.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93386</idno>
+            <idno type="STC">Wing S415</idno>
+            <idno type="STC">Thomason E1361_4</idno>
+            <idno type="STC">ESTC R209192</idno>
+            <idno type="EEBO-CITATION">99868082</idno>
+            <idno type="PROQUEST">99868082</idno>
+            <idno type="VID">169843</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93386)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169843)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 179:E1361[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heights in depths and depths in heights or Truth no less secretly then sweetly sparkling out its glory from under a cloud of obloquie. Wherein is discovered the various motions of an experienced soul, in and through the manifold dispensations of God. And how the author hath been acted in, and redeemed from the unknown paths of darkness; wherein, as in a wilderness, he hath wandered without the clear vision of a Divine Presence. Together with a sincere abdication of certain tenents, either formerly vented by him, or now charged upon him. Per me Jo. Salmon</title>
+                  <author>Salmon, Joseph.</author>
+               </titleStmt>
+               <extent>[16], 54 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salmon, Joseph --  Early works to 1800.</term>
+               <term>Conversion --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169843:1"/>
+            <pb facs="tcp:169843:1" rendition="simple:additions"/>
+            <p>
+               <hi>Heights</hi> in <hi>Depths</hi> AND <hi>Depths</hi> in <hi>Heights.</hi> OR TRVTH no leſs <hi>Secretly</hi> then <hi>Sweetly</hi> ſparkling out its GLORY from under a <hi>Cloud</hi> of <hi>OBLOQ<g ref="char:V">Ʋ</g>IE.</hi>
+            </p>
+            <list>
+               <item>Wherein is diſcovered the various <hi>Motions</hi> of an <hi>Experienced Soul,</hi> in and through the manifold diſpenſations of GOD.</item>
+               <item>And how the Author hath been acted in, and redeemed from the unknown paths of darkneſs; wherein, as in a wilderneſs, he hath wan<g ref="char:EOLhyphen"/>dered without the clear viſion of a <hi>Divine Preſence.</hi>
+               </item>
+               <item>Together with a ſincere abdication of certain Tenents, either formerly vented by him, or now charged upon him.</item>
+            </list>
+            <p>Per me JO. SALMON.</p>
+            <q>
+               <p>
+                  <hi>Are they Hebrews? So am I. Are they Iſraelites? So am I. Are they the ſeed of Abraham? So am I.</hi>
+               </p>
+               <p>
+                  <hi>The God and Father of our Lord Jeſus Chriſt knowes that I lie not.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Tho. Newcomb,</hi> 1651.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169843:2"/>
+            <pb facs="tcp:169843:2"/>
+            <head>AN Apologeticall Hint <hi>to the enſuing Diſcourſe.</hi>
+            </head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His little Piece comes to thy view as a poore Pilgrim, void of that large accom<g ref="char:EOLhyphen"/>modation which happily it may finde at its own home. I have here dreſſed it in a homely Language, and for<g ref="char:EOLhyphen"/>med it as like my ſelf as poſ<g ref="char:EOLhyphen"/>ſible I could; if thou canſt ſee ſo much woth in it, as to give it entertainment, I
+<pb facs="tcp:169843:3"/>am bold to ſay (ere it part from thee) it will return thee ſatisfaction. It ſteales like a Thiefe upon the be<g ref="char:EOLhyphen"/>nighted world: However, bee not ſhy of it; for it ſhal take nothing from thee but what thou ſhalt bee made willing to part with<g ref="char:EOLhyphen"/>all.</p>
+            <p>Laſtly, <hi>I</hi> ſend it into the World, to diſcharge ſome debts which in my late Travels through Egypt land <hi>I</hi> left unſatisfied.</p>
+            <p>
+               <hi>As more plainly thus:</hi>
+            </p>
+            <p>It is not long ſince where<g ref="char:EOLhyphen"/>in that eminent appea<g ref="char:EOLhyphen"/>rance of light, which daw<g ref="char:EOLhyphen"/>ned out its glory upon my
+<pb facs="tcp:169843:3"/>Spirit, and from thence gave a ſweet and powerfull reflexe upon the World, did ſhrowd it ſelfe under a moſt ſable and enigmaticall cloud of darkneſſe, and withdrew for a ſeaſon, be<g ref="char:EOLhyphen"/>hinde the dark Canopies of Earth and Fleſh; in which ſtate the Hemiſpheare of my ſpirit was ſo beſpread with obſcurity, that <hi>I</hi> knew not whither <hi>I</hi> walked, or what <hi>I</hi> did.</p>
+            <p>Thus was <hi>I</hi> led into paths that <hi>I</hi> had not known, and turned from a King to become a
+<note n="*" place="margin">Like Nebu<g ref="char:EOLhyphen"/>chadnez<g ref="char:EOLhyphen"/>zar.</note> Beaſt, and fed upon huskes for a ſea<g ref="char:EOLhyphen"/>ſon.</p>
+            <p>
+               <pb facs="tcp:169843:4"/>
+After a while poſting moſt furiouſly in a burning zeal towards an unattainable end: my manner of wal<g ref="char:EOLhyphen"/>king being adjudged by thoſe in power contrary to the peace and civill order of the
+<note n="*" place="margin">Which indeed were no leſſe, ac<g ref="char:EOLhyphen"/>cording to the preſent ſtate of things.</note> Common<g ref="char:EOLhyphen"/>wealth) <hi>I</hi> was juſt<g ref="char:EOLhyphen"/>ly apprehended as an offender: who never be<g ref="char:EOLhyphen"/>fore had demerited any thing from them, except love and reſpect for my faithfull ſervice, which up<g ref="char:EOLhyphen"/>on all occaſions I was ever free to offer as a due ho<g ref="char:EOLhyphen"/>mage to the juſtneſs of their Cauſe.</p>
+            <p>I ſuffered above halfe a
+<pb facs="tcp:169843:4"/>yeares impriſonment under the notion of a blaſphea<g ref="char:EOLhyphen"/>mer; which through want of air, and many other con<g ref="char:EOLhyphen"/>veniences, became very irk<g ref="char:EOLhyphen"/>ſome and tedious to my outward man.</p>
+            <p>Being now retired from the noyſe of the world, and cloy ſtered up from the uſu<g ref="char:EOLhyphen"/>all ſociety of my friends, having my grates on the one ſide for a defence, and my doore faſt bolted on the other, I had time enough afforded me to ponder my ſtate and condition.</p>
+            <p>Upon which I ſummoned my heart to an appearance before the throne of divine
+<pb facs="tcp:169843:5"/>Juſtice, where after a ſcru<g ref="char:EOLhyphen"/>tinous and ſerious debate, I found that <hi>I</hi> had in ma<g ref="char:EOLhyphen"/>ny things, been led out and acted in the moſt undoing and deſtroying paths of darkneſſe.</p>
+            <p>Upon which <hi>I</hi> was for a ſeaſon deeply, yea intole<g ref="char:EOLhyphen"/>rably ſenſible of theſe things; and multitudes of armed thoughts all at once beleaguered my ſoule, as if they had agreed with one conſent to devour me.</p>
+            <p>In the middeſt of this trouble and diſtraction, <hi>I</hi> was led to conſider that cer<g ref="char:EOLhyphen"/>tainly Providence had ſome end in leading (or ſuffering
+<pb facs="tcp:169843:5"/>me to bee led) into theſe appearances.</p>
+            <p>This ſtayed me, and got by degrees more ground upon my Spirit; in which to this day I can rejoyce and lift up my head above the moſt inſulting and daring Fury: inſomuch as I know the Lord had a ſpeciall end to accompliſh through all theſe declinings.</p>
+            <p>The rage of man ſhall turn to the praiſe of God, &amp; for ever bleſſed be that <hi>Grace</hi> &amp; <hi>Love</hi> which hath taught me to ſay from an inward experience of light, I thank God that I was made a ſer<g ref="char:EOLhyphen"/>vant of
+<note n="*" place="margin">All things ſhal work together for the beſt to them that love God</note> ſin. But to return:
+<pb facs="tcp:169843:6"/>Having this clear conviction upon my ſpirits, I forth with addreſſed my ſelfe to thoſe who had been the cauſers of my then preſent confine<g ref="char:EOLhyphen"/>ment: and truly I wil ſpeak it to their everlaſting praiſe, (eſpecially ſome of them) they were as willing to em<g ref="char:EOLhyphen"/>brace me &amp; my deſires (up<g ref="char:EOLhyphen"/>on ſuch faire termes pro<g ref="char:EOLhyphen"/>pounded) as I could be to offer my ſelfe to them.</p>
+            <p>Major <hi>Beak</hi> (a man much honored in my thoughts, though once a profeſſed e<g ref="char:EOLhyphen"/>nemy to me) upon the diſ<g ref="char:EOLhyphen"/>covery of my mind to him, ſeemed to be much affected with my condition, &amp; with<g ref="char:EOLhyphen"/>all
+<pb facs="tcp:169843:6"/>informed me of divers blaſphemous expreſſions, which were vented in cer<g ref="char:EOLhyphen"/>tain letters of mine which had lately been intercepted; which (after my humble re<g ref="char:EOLhyphen"/>queſt) hee offered to my view one or more of them: I drew out from them thoſe expreſſions which moſt de<g ref="char:EOLhyphen"/>ſerved my ſevereſt cenſure, arraigned them and con<g ref="char:EOLhyphen"/>demned them as guilty.</p>
+            <p>I offered what <hi>I</hi> had done to Major <hi>Beak,</hi> together with a Petition to the Coun<g ref="char:EOLhyphen"/>cel of State for my liberty. Who according to my de<g ref="char:EOLhyphen"/>ſires, being in himſelfe per<g ref="char:EOLhyphen"/>ſwaded of my hearty and
+<pb facs="tcp:169843:7"/>penitentiall remorſe, did with all care and ſpeed pre<g ref="char:EOLhyphen"/>ſent the ſame in my be<g ref="char:EOLhyphen"/>halfe, and ſo next under God became the onely means of my Releaſe.</p>
+            <p>Not long after the Right Honorable Colonel <hi>Purefoy</hi> came down to <hi>Coventry</hi> w<hi rend="sup">th</hi> my diſcharge fro<g ref="char:cmbAbbrStroke">̄</g> the Coun<g ref="char:EOLhyphen"/>cell, who after ſtrict exa<g ref="char:EOLhyphen"/>mination (and finding him<g ref="char:EOLhyphen"/>ſelfe with the reſt ſatisfied) preſented my Diſcharge to the Mayor and Aldermen then preſent, which ac<g ref="char:EOLhyphen"/>cordingly was received, and <hi>I</hi> ſet at liberty, ingaging to his Honour and the reſt, that <hi>I</hi> would with
+<pb facs="tcp:169843:7"/>all convenient ſpeed declare my ſelfe in Print againſt thoſe things which I was then char<g ref="char:EOLhyphen"/>ged withall, and ſtill am by many.</p>
+            <p>This then is one and not the leaſt end of my expoſing theſe lines to a publick view, that I may appeare to bee no worſe then my word to them whoſe indulgencie in a time of need was ſufficiently manifeſted to<g ref="char:EOLhyphen"/>wards me.</p>
+            <p>And truly had not this with ſome other weighty reaſons pre<g ref="char:EOLhyphen"/>vailed with me, I ſhould not have troubled the world with things of this nature. Onely. Therefore Reader take notice that my main ends in this buſi<g ref="char:EOLhyphen"/>neſs are.</p>
+            <p n="1">
+               <pb facs="tcp:169843:8"/>
+1. To give a faithful account of the dealings of the moſt High towards me, as he hath led me along through manifold diſ<g ref="char:EOLhyphen"/>penſations of himſelfe.</p>
+            <p n="2">2. To declare to all men what J now am, onely in what <hi>I</hi> am not: if thou (Reader) art ſo wiſe as to diſcover my ſpirit by what <hi>I</hi> ſhall here declaim, thou wilt ſpare me the labour of ma<g ref="char:EOLhyphen"/>king an after profeſſion of my Faith, which <hi>I</hi> confeſſe <hi>I</hi> ſhall hardly be drawn to declare to
+<note n="*" place="margin">Haſt thou Faith, have it to thy ſelfe.</note> any man.</p>
+            <p n="3">3. <hi>I</hi> now am made to ſpeak, be<g ref="char:EOLhyphen"/>cauſe <hi>I</hi> am almoſt weary of ſpeaking, and to informe the world that ſilence hath taken hold of my ſpirit. The thunder<g ref="char:EOLhyphen"/>ſtrokes
+<pb facs="tcp:169843:8"/>of the Almighty have to purpoſe uttered their voices in me, heaven and earth have trembled at their dreadfull ſounds: the Alarm being over, ther's ſilence now in heaven; for how long <hi>I</hi> know not</p>
+            <p>I lie quietly ſecure in the Lord while <hi>I</hi> ſee the whole world conſuming in the fire of envie one againſt another. I heare much noyſe about me, but it ſerves onely to deafen me into the ſtill ſlumbers of Divine reſt. The formall world is much af<g ref="char:EOLhyphen"/>frighted, &amp; every form is up in Arms to proclaim open wars againſt it ſelfe: The Almighty power is daſhing one thing a<g ref="char:EOLhyphen"/>gainſt another, and confoun<g ref="char:EOLhyphen"/>ding
+<pb facs="tcp:169843:9"/>that which hee hath for<g ref="char:EOLhyphen"/>merly faced with the glory of his own preſence: Hee ſetteth up and caſteth down, and who ſhal ſay, <hi>What doest thou?</hi> Come then, O my Soule, enter thou into thy Chamber, ſhut thy doores about thee, hide thy ſelfe in ſilence for a ſeaſon till the indignation bee blown o<g ref="char:EOLhyphen"/>ver.</p>
+            <p>Reader, I heartily bid thee farewel, commending thee into that boſome of love, where <hi>I</hi> reſt,</p>
+            <closer>
+               <signed>Thine in ſilence.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169843:9"/>
+            <head>Heights in Depths, <hi>AND</hi> Depths in Heights. OR TRVTH no leſs ſecretly then ſweetly ſparkling out its GLORY from under a <hi>Cloud</hi> of OBLOQUIE.</head>
+            <p>
+               <seg rend="decorInit">V</seg>Anitie of Vanities, All is Va<g ref="char:EOLhyphen"/>nitie ſaith the Preacher.</p>
+            <p>The higheſt piece of wiſ<g ref="char:EOLhyphen"/>dom, is to ſee wiſdom it ſelf but Vanity.</p>
+            <p>The whole world is a Circle, includ<g ref="char:EOLhyphen"/>ing nothing but emptineſs.</p>
+            <p>
+               <pb n="2" facs="tcp:169843:10"/>
+               <note n="*" place="margin">World<g ref="char:EOLhyphen"/>ly.</note> Wiſdom it ſelf is but a womb of Wind, whoſe wring<g ref="char:EOLhyphen"/>ing Pangs, pretend the birth of pure Subſtance, but in times revealing Order it am its nothing, except travel for ſor<g ref="char:EOLhyphen"/>row, whoſe high aſpires, do curſorily expire into an airy notion, even while it appears to be ſomething, it proves no<g ref="char:EOLhyphen"/>thing.</p>
+            <p>Man walketh in a vain ſhew, he ſhews to be a man, and thats all.</p>
+            <p>
+               <note n="*" place="margin">Below.</note> Here is nothing that truly is, becauſe it
+<note n="*" place="margin">What God doth he doth for ever.</note> abides not; things onely appear to be, and ſo va<g ref="char:EOLhyphen"/>niſh.</p>
+            <p>I am ſatisfied in nothing ſo much, as in knowing that
+<note n="*" place="margin">In the world</note> nothing can ſatisfie me.</p>
+            <p>We ſeem to live in the State of vari<g ref="char:EOLhyphen"/>ety, wherein we are not truely living, but onely in appearance: in Unity is our life: in one we are, from one divi<g ref="char:EOLhyphen"/>ded, we are no longer.</p>
+            <p>While we perambulate variety, we walk but as ſo many Ghoſts or Shadows
+<pb n="3" facs="tcp:169843:10"/>in it, that it ſelf being but the Umbrage of the Unity.</p>
+            <p>To deſcend from the oneneſs or E<g ref="char:EOLhyphen"/>ternity, into the multiplicity, is to loſe our ſelves in an endleſſe Laby<g ref="char:EOLhyphen"/>rinth.</p>
+            <p>To aſcend from variety into unifor<g ref="char:EOLhyphen"/>mity, is to contract our ſcattered ſpi<g ref="char:EOLhyphen"/>rits into their original center and to finde our ſelves where we
+<note n="*" place="margin">In Eternity by Gods de<g ref="char:EOLhyphen"/>cree.</note> were, before we
+<note n="*" place="margin">As to out<g ref="char:EOLhyphen"/>ward appear<g ref="char:EOLhyphen"/>ance.</note> were.</p>
+            <p>Certainly, when a man looks upon the face of things and with a ſerious inſpection eyes the ſhaken Frame of them, he muſt conclude that there is ſomthing above and beyond all appearances, which can onely and alone ſatisfie.</p>
+            <p>If we look upon the Temporay, or more outward ſtate of things; good Lord how ſubject is it to revolutions and viciſſitudes? what is it that we can call certain, but onely uncer<g ref="char:EOLhyphen"/>tainty.</p>
+            <p>Behold the Lord maketh the earth
+<pb n="4" facs="tcp:169843:11"/>empty and voyd; he layeth it waſte: it reels to and fro like a drunk<g ref="char:EOLhyphen"/>ard: all its Foundations are out of courſe: one change ſucceeds ano<g ref="char:EOLhyphen"/>ther, while the earth is become ſubject to a conſtant inconſtan<g ref="char:EOLhyphen"/>cie.</p>
+            <p>The world travels perpetually, and every one is ſwoln full big with par<g ref="char:EOLhyphen"/>ticularity of intereſt; thus travel<g ref="char:EOLhyphen"/>ling together in pain, and groan<g ref="char:EOLhyphen"/>ing under enmity: labouring to bring forth ſome one thing, ſome another, and all bring forth nothing but wind and confuſion: this is certain<g ref="char:EOLhyphen"/>ly a great evil that God hath given men to be exerciſed withall under the ſun.</p>
+            <p>If further we caſt our eye upon thoſe things which promiſe greater Stabillite, (<hi>viz:</hi> formes of righteouſnes and Religion) alas how doth experi<g ref="char:EOLhyphen"/>ence daily informe us, of the violent turnings and overturnings which are incident to theſe alſo?</p>
+            <p>Doth not the Almighty power blaſt
+<pb n="5" facs="tcp:169843:11"/>thoſe things daily, which have been moſt in requeſt amongſt us? is he not daſhing one forme againſt another as potters Veſſels? what lively Charact<g ref="char:EOLhyphen"/>ers of ſudden mortalitie may we runn and read upon all
+<note n="*" place="margin">So farr as they are bare form.</note> outward formes? what meanes this great noyſe, and ſtir, that a<g ref="char:EOLhyphen"/>larmes the world continually? the bit<g ref="char:EOLhyphen"/>ter contention, that intermixes it ſelfe with mens wayes and worſhips? the perpetuall claſhings of one forme a<g ref="char:EOLhyphen"/>gainſt another? The heaven of forme is paſſing away, which goes not without much clamour, ſtrife and contention. Thus is it the Lords will that people ſhal labour in the fire, and weary them<g ref="char:EOLhyphen"/>ſelves for very vanitie.</p>
+            <p>The farther a man
+<note n="*" place="margin">As Adam, who deſired to be as <hi>God,</hi> to know good and evill.</note> reaches beyond himſelfe to contem<g ref="char:EOLhyphen"/>plate an incomprehenſible glory, though his labour may be delightfull, yet hisloſſ will prove very
+<note n="*" place="margin">I ſpeak by deep ex<g ref="char:EOLhyphen"/>perience.</note> extenſive.</p>
+            <p>While with a ſwift winged ambition, we are tranſported
+<pb n="6" facs="tcp:169843:12"/>into the ſublimity of notion; the Scorching influences of the heavenly Splendor, meets us (as it were) with an untimely check; Singes the golden <hi>plumes</hi> of our ſoring fancies; &amp; down we fal into unconceivable depths of darknes.</p>
+            <p>
+               <hi>Ob.</hi> How then ſhall a man attaine to a onenes, and communion with this in<g ref="char:EOLhyphen"/>acceſſible glory?</p>
+            <p>
+               <hi>Sol.</hi> Seeing there is no way probable for us, (by our moſt lofty aſpires) to intereſſe our ſelves in that</p>
+            <p>We muſt patiently expect its ſeaſo<g ref="char:EOLhyphen"/>nable deſcenſion upon us; whoſe na<g ref="char:EOLhyphen"/>ture it is to
+<note n="*" place="margin">Out of al our droſſ &amp; tinn: for he is as a re<g ref="char:EOLhyphen"/>finers fire.</note> conſume us in<g ref="char:EOLhyphen"/>to it ſelfe, and to melt us into the ſame nature and likenes:</p>
+            <p>And truly till this come, and thus manifeſt it ſelfe, all that man can doe to acquire ſatisfaction, does but multi<g ref="char:EOLhyphen"/>ply his ſorrow upon his head, and aug<g ref="char:EOLhyphen"/>ment cares upon his ſpirit. Vanitie, va<g ref="char:EOLhyphen"/>nitie, all is vanitie.</p>
+            <p>It is but vanitie for me to write, vani<g ref="char:EOLhyphen"/>tie for you to read. Words are but
+<pb n="7" facs="tcp:169843:12"/>wind; you read you know not what, and perhaps I write I know not what: and ſo let it be till God will have it o<g ref="char:EOLhyphen"/>therwiſe.</p>
+            <p>There is a ſet time for ever purpoſe under heaven; vanity hath its time alſo; nay time it ſelfe is but a lengthened threed of vanitie; there's no reallity but in eternitie:</p>
+            <p>When time ſhall be no longer then things will appeare in their proper and perfect ſubſtance.</p>
+            <p>Well; to every thing there is a ſeaſon; a time to
+<note n="*" place="margin">A vaine thing.</note> caſt a way ſtones, and a time to gather ſtones to<g ref="char:EOLhyphen"/>gether, I know not very well which of theſe times I am now under, while I am thus buſied:</p>
+            <p>It may be I am now caſting ſtones a<g ref="char:EOLhyphen"/>gainſt the wind, [that is but vanity] However, (if ſo) methinks the wiſe reader might find ſome better employ<g ref="char:EOLhyphen"/>ment, then to ſtand as a ſpectator of ſuch folly and madnes.</p>
+            <p>Truly I would very willingly ſay no<g ref="char:EOLhyphen"/>thing, &amp; yet at preſent I am forced into a freedom to ſpeak my mind:</p>
+            <p>
+               <pb n="8" facs="tcp:169843:13"/>
+If I ſpeak any thing more then my reaſon dictates to me as truth; I am be<g ref="char:EOLhyphen"/>come a foole;</p>
+            <p>And yet I have not ſo much reaſon in me, as to make what I ſay appear rea<g ref="char:EOLhyphen"/>ſonable to others: this is alſo vanity, and a ſore travell. But to draw near to what I intend:</p>
+            <p>I have lived to ſee an end of all per<g ref="char:EOLhyphen"/>fections; that which I now long for, is to ſee perfection it ſelfe perfected.</p>
+            <p>I have bin led out to ſeek the Lord in manifold appearances, I muſt now (by himſelfe) be found in himſelfe, who is the good it ſelfe, and nothing but this can ſatisfie: Take only this breif hint, for information.</p>
+            <div type="part">
+               <head>How the Author hath beene acted in, and carried thorough va<g ref="char:EOLhyphen"/>rious and manifold ap<g ref="char:EOLhyphen"/>pearances.</head>
+               <p>NO ſooner had I attained to any maturity in a natural underſtand<g ref="char:EOLhyphen"/>ing, of common principles of morali<g ref="char:EOLunhyphen"/>ty,
+<pb n="9" facs="tcp:169843:13"/>but I found in my ſelfe a ſecret long<g ref="char:EOLhyphen"/>ing to ſore in a more celeſtiall orbe; (be<g ref="char:EOLhyphen"/>ing partly convicted of a higher life than that of nature.)</p>
+               <p>This deſire being kindled, and ſup<g ref="char:EOLhyphen"/>plied with the timely breath of the Al<g ref="char:EOLhyphen"/>mighty, it ſoone begann to warme and afterwards to ſet my whole heart of a flame, which to this day could ne<g ref="char:EOLhyphen"/>ver be extinct; but hath ever ſince (like the ambitious ſparke) made its conſtant aſcenſions, and earneſt aſpires, towards this heavenly center.</p>
+               <p>Receiving (after my nocturnal ſlum<g ref="char:EOLhyphen"/>bers in nature's grave) ſome quicknings of a divine principle within me; I pre<g ref="char:EOLhyphen"/>ſently aroſe and (as it were) ſhooke of my night dreſſes, and appeared to my ſelfe, like the ſunn, dawning out its re<g ref="char:EOLhyphen"/>fulgent ſplendor, from behind the darke canopies of the earth: I was now a<g ref="char:EOLhyphen"/>dorned in another hue, and devoutly re<g ref="char:EOLhyphen"/>ſolved to tread the paths of a more princely dignity.</p>
+               <p>I preſently ſet forth for heaven, the whole powers and faculties of my ſoule
+<pb n="10" facs="tcp:169843:14"/>being infinitely ingaged thereunto, by ſome taſte of the fruies of that good land, which I received as pledges of divine love, and as the earneſt of that more glorious inheritance, which I now wai<g ref="char:EOLhyphen"/>ted for.</p>
+               <p>I now forſooke my owne kindred and my fathers houſe, withdrew my ſelfe from my former vanities, and willingly expoſed my ſelfe to all the contempt and reproach of the world, that I might owne Chriſt, his cauſe, and people.</p>
+               <p>By this time (the honeſt presbyterian party) were looked moſt upon, as own<g ref="char:EOLhyphen"/>ers of, and ſufferers for, the cauſe of God;</p>
+               <p>Theſe, being newly crept out of the ſhell of Epiſcopacy, were hatched in<g ref="char:EOLhyphen"/>to a more pure and refined forme; and (after a ſmall time) did ſeeme to hover gently, and ſore ſweetly, in a more ſub<g ref="char:EOLhyphen"/>limer region than the former.</p>
+               <p>With theſe I now joyned, and became a Zealous hearer and a very great affect<g ref="char:EOLhyphen"/>er of them; and truly did enjoy much of God in this ſtation while the Lord ap<g ref="char:EOLhyphen"/>peared to me in it.</p>
+               <p>
+                  <pb n="11" facs="tcp:169843:14"/>
+After a while, the notion of Indepen<g ref="char:EOLhyphen"/>dency offred it ſelfe upon the ſtage, to which I was willing to lend my audience (at leaſt) and make proofe of its plauſi<g ref="char:EOLhyphen"/>ble propoſalls. I underſtood they were a people, much decryed by the vulga<g ref="char:EOLhyphen"/>ritie, which made me imagine that there was ſomething of God amongſt them;</p>
+               <p>I ſaw they were a people farr excelling others in the ſtrictnes of their forme; and (which moſt affected me) were ga<g ref="char:EOLhyphen"/>thered out of the world, and knit one to another in a more cloſe, and comforta<g ref="char:EOLhyphen"/>ble bond of love, than any;</p>
+               <p>The more excelling luſtre of this forme, (to me) darkned the beauty, and dim'd the glory of the other: my affections (upon the illumination of the underſtanding) were ſoone commanded and forth they runn with a great deale, of delight, to wel-com this newly receiv<g ref="char:EOLhyphen"/>ed glory; in this forme I was concluded and ſhutt up for a ſeaſon: wherein I alſo enjoyed much ſatisfaction:</p>
+               <p>Soone after, the doctrine of beleivers baptiſme was much preſſed by many:
+<pb n="12" facs="tcp:169843:15"/>and this (though it were a much deſpi<g ref="char:EOLhyphen"/>ſed forme) I was yet free to make triall of it, and owne it ſo farr as I could ſee it hold a correſpondencie with truth.</p>
+               <p>I (after ſome ſerious debate) was convinced that it was my duty to obey God in my ſubjection to that ordinance of water baptiſme: I hereupon tendered my willing and chearful ſubmiſſion, and conſulted not with fleſh and blood in this buſineſs. In the hotteſt time of Perſecution: I was made one eminent both in holding forth this way to the world, and alſo in an open ſuffering for the ſame.</p>
+               <p>By this time I began to think it was high time to ſettle, and not to expoſe my minde to ſuch changes and alterati<g ref="char:EOLhyphen"/>ons in things of this nature: Where<g ref="char:EOLhyphen"/>upon I here built me a Tabernacle, and was fixed in a peremptory reſolve, That this and no other could lawfully be ad<g ref="char:EOLhyphen"/>judged the way of God.</p>
+               <p>Then came that voice from the throne of the heavenly Almightineſs: Ariſe and depart for this is not your reſt.</p>
+               <p>
+                  <pb n="13" facs="tcp:169843:15"/>
+I was made as truly ſenſible of this in<g ref="char:EOLhyphen"/>wardly, as the eye is ſenſible of the light, or the ear of the outward ſound.</p>
+               <p>I was certainly ſtruck dead to all my wonted enjoyments.</p>
+               <p>Stript I was of my glory, and my Crown taken from my head, &amp; I could ſee nothing but Vanity (and that legi<g ref="char:EOLhyphen"/>bly written) upon all my former tra<g ref="char:EOLhyphen"/>vels.</p>
+               <p>I then had a clear diſcovery in my ſpirit, how far all my former enjoy<g ref="char:EOLhyphen"/>ments came ſhort of that true reſt which my ſoul had all along aimed at.</p>
+               <p>Here I ſtood for a ſeaſon weeping with <hi>Mary</hi> at the Sepulcher: fain I would have found Chriſt where I left him, but alas he was riſen: I found no<g ref="char:EOLhyphen"/>thing in form but a few
+<note n="*" place="margin">A few grave clothes, or ſuch like ſtuff</note> ſig<g ref="char:EOLhyphen"/>nals of Mortality; as for Jeſus, he was riſen and de<g ref="char:EOLhyphen"/>parted.</p>
+               <p>Thus have I followed Chriſt from his babe-ſhip, or infancy, to his Grave of mortality, running through the life
+<pb n="16" facs="tcp:169843:16"/>of Form in a bare knowledge of Chriſt after the fleſh, till I expired with him
+<note n="*" place="margin">As many of you as have been ba<g ref="char:EOLhyphen"/>ptiſed into Chriſt, have been baptiſed into his death.</note> into his death, and was ſealed up in the Grave of moſt darke, and ſomnolent retires for a ſea<g ref="char:EOLhyphen"/>ſon.</p>
+               <p>Loath, full loath I was thus to ſhake hands with form, &amp; to leave the terreſ<g ref="char:EOLhyphen"/>trial image of Ieſus Chriſt; yet ſo it was deſigned that hee muſt goe to his fa<g ref="char:EOLhyphen"/>ther, and (although
+<note n="*" place="margin">Like the diſ<g ref="char:EOLhyphen"/>ciples, who were ignorant of the promiſe of the Spirit.</note> I were ignorant of it) prepare a higher manſion in himſelf for me.</p>
+               <p>When my 3. dayes (or ſet time) was expired, I begann to feele ſome quick<g ref="char:EOLhyphen"/>ning comfort within me; the grave ſtone was rolled away, and I ſet at li<g ref="char:EOLhyphen"/>bertie, from theſe deep and darke re<g ref="char:EOLhyphen"/>tires; out I came with a moſt ſerene and chearfull countenance, and (as one inſpired with a ſupernaturall life) ſprang up farr above my earthly cen<g ref="char:EOLhyphen"/>ter, into a moſt heavenly and divine enjoyment: Wrapt up in the embraces
+<pb n="14" facs="tcp:169843:16"/>of ſuch pure love and peace, as that I knew not oft times, whether I were in or out of this fading forme.</p>
+               <p>Here I ſaw heaven opened upon me and the new Ieruſalem (in its divine brightnes and corruſcant beauty) greeting my Soule by its humble and gentle deſcenſions:</p>
+               <p>Now I certainely enjoyed that ſub<g ref="char:EOLhyphen"/>ſtance, which all this while I had gro<g ref="char:EOLhyphen"/>ped after in the ſhadow.</p>
+               <p>My water was turned into wine-form, into power; and all my former enjoy<g ref="char:EOLhyphen"/>ments being nothing in appearance to that glory which now reſted on my ſpirit.</p>
+               <p>Time would faile to tell, what joy unſpeakeable, peace unconceiveable; what ſoul raviſhing delights, and moſt divinely infatuating pleaſures my ſoul was here poſſeſt with.</p>
+               <p>I could caſt my eye no where, but that preſence of love preſented it ſelfe to me, whoſe beatificall viſion, oftimes dazeled me into a ſweet aſtoniſhment:</p>
+               <p>In a word, I can give you no perfect
+<pb n="16" facs="tcp:169843:17"/>account of that glory which then co<g ref="char:EOLhyphen"/>vered me; the liſps and ſlipps of my tongue will but render that imper<g ref="char:EOLhyphen"/>fect, whoſe pure perfection ſurmounts the reach of the moſt ſtrenuous and high flown expreſſion.</p>
+               <p>I appeared to my ſelfe as one con<g ref="char:EOLhyphen"/>founded into the abyſſ of eternitie, nonentitized into the being of beings; my ſoule ſpilt, and emptied into the fountaine and ocean of divine fulneſs: expired into the aſpires of pure life:</p>
+               <p>In breife the Lord ſo much appeared that
+<note n="*" place="margin">
+                     <hi>Viz:</hi> the carnal ſelf.</note> I was little or nothing ſeene; but walked at an or<g ref="char:EOLhyphen"/>derly diſtance from my ſelf, treading and tripping over the pleaſant moun<g ref="char:EOLhyphen"/>taines of the Heavenly land, where I walked with the Lord and was not:</p>
+               <p>I ſhall be eſteemed a foole, by the wiſe world, thorough an over much boaſting: otherwiſe I could tell you how I have been exalted into the bo<g ref="char:EOLhyphen"/>ſome of the eternall Allmightines, where I have ſeene and heard, things unlawful, (I ſay
+<note n="*" place="margin">As to the weak<g ref="char:EOLhyphen"/>neſs of many.</note> unlawful) to be uttered amongſt
+<pb n="17" facs="tcp:169843:17"/>men; but I ſhall at preſent ſpare my ſelf the labour, and prevent the worlds inconſiderate cenſure.</p>
+               <p>The proud and imperious Nature of fleſh, would willingly claim a ſhare in this glorious work, for which cauſe happened a ſuddain, certain, terrible, dreadfull revolution, a moſt ſtrange viciſſitude.</p>
+               <p>God ſent a Thorn immediatly; hid himſelf from me by a ſudden depar<g ref="char:EOLhyphen"/>ture, and gives a ſpeedy Commiſſion to a Meſſenger of Satan to aſſault me.</p>
+               <p>The Lord being thus withdrawn, &amp; having carried away (in the bundle of his Treaſures) the heart and life of that
+<note n="*" place="margin">Note wel what I ſay, that was re<g ref="char:EOLhyphen"/>ſerved pure in the life of Chriſt, while the fleſh acted its part.</note> new ſeed in me, there now remained nought behind but the man of ſinne, who (for his pride) being wounded with the thorn of Divine vengeance, began by degrees to act its part.</p>
+               <p>This Thorn, I ſay was in the fleſh (or fleſhly principle) the
+<pb n="18" facs="tcp:169843:18"/>ſpirit (or new man) that was preſerv<g ref="char:EOLhyphen"/>ed ſtill in the heart of eternal love, and became a life occult, hid with Chriſt in God.</p>
+               <p>Angry fleſh being ſtruck at heart with the piercing dart of vengeance, begins to ſwell, and contracting all the evil humors of the body of death into one lump, to grapple with this thorne of wrath, at laſt violently breaks out, and lets forth the very heart and coar of its pride and enmity.</p>
+               <p>The rankor and venom of this ſub<g ref="char:EOLhyphen"/>til ſerpent, now diſcovers it ſelf, and being ſore ſick with a cup of pure wrath, diſgorges its foul ſtomack up<g ref="char:EOLhyphen"/>on the very face, and appearance of Truth.</p>
+               <p>I was now ſent into a ſtrange land, and made to eat unclean things in <hi>Aſſy<g ref="char:EOLhyphen"/>ria;</hi> walked in unknown paths, and became a mad man, a fool amongſt men.</p>
+               <p>Thus tumbling in my own Vomit, I became a deriſion to all, and even loa<g ref="char:EOLhyphen"/>thed by thoſe by whom I had been be<g ref="char:EOLhyphen"/>loved:
+<pb n="19" facs="tcp:169843:18"/>being made drunk with a Cup of vengeance, every one begins to caſt a ſquint eye towards me.</p>
+               <p>O the deep drunken bewitching, be ſotting draughts of the wine of aſto<g ref="char:EOLhyphen"/>niſhment that hath been forced upon me.</p>
+               <p>Well, my folly being diſcovered, and the bowels of corrupt fleſh being let out, I lay as a ſpectacle of ſcorn and contempt to every eye; yea my mo<g ref="char:EOLhyphen"/>thers children were angry with me, and even thoſe were apt to cenſure me for a firebrand of hell, an hypocrite, a caſt away, into whoſe hands when the Cup of the Lord ſhall come, they may appear as bad, if not worſe then my ſelf.</p>
+               <p>But moſt true it is, he that ſlippeth with his feet, is as a Lamp deſpiſed in the heart of him that is at eaſe.</p>
+               <p>Certainly if the Lord would but let looſe the reins of mens hearts, they ſhould ſoon diſcover as bad, or worſe in themſelves, as they hate and deſpiſe in others.</p>
+               <p>
+                  <pb n="20" facs="tcp:169843:19"/>
+The time of many is now at hand; yea, its come upon them, wherein the baſeneſs and rottenneſs of their hearts are diſcovered; they walk with their inſides outwards, and ſhew their na<g ref="char:EOLhyphen"/>kedneſs and ſhame.</p>
+               <p>They are turned and toſſed as a ball in a large countrey: reel, ſtagger, ſtumble and fall with the deſperate in<g ref="char:EOLhyphen"/>toxicating draughts of wrath and mad<g ref="char:EOLhyphen"/>neſs: tumble up and down in their own filthineſs and beaſtiality; and are become ſigns and wonders amongſt men: yea, thoſe that have been Ri<g ref="char:EOLhyphen"/>vals to the chiefeſt and moſt eminent in knowledge and enjoyment, have been puld down from the Throne, and ſet as mirrors of amazement in the world: Judged with a witneſs both by God and man: judged in them<g ref="char:EOLhyphen"/>ſelves, the damnation of whoſe fleſh ſleepeth not: Judged, cenſured, ſtrip<g ref="char:EOLhyphen"/>ped, perſecuted, impriſoned by o<g ref="char:EOLhyphen"/>thers.</p>
+               <p>The hand of the Lord meets them continually, and the world knows not,
+<pb n="21" facs="tcp:169843:19"/>conſiders not, their moſt heavy and ſad preſſures.</p>
+               <p>O God, that men could a little con<g ref="char:EOLhyphen"/>ſider the ſeveral diſpoſings of the eter<g ref="char:EOLhyphen"/>nal wiſdom!</p>
+               <p>I would gladly offer one ſilent whi<g ref="char:EOLhyphen"/>ſper in the ears of the world, and leave it to the wiſe, and ponderous judge<g ref="char:EOLhyphen"/>ment of every Chriſtian.</p>
+               <p>Hark then—</p>
+               <p>Think ye that thoſe eighteen upon whom the Tower of <hi>Siloam</hi> tell, were greater ſinners then others? I tel you, nay.</p>
+               <p>Are their impieties on their fore<g ref="char:EOLhyphen"/>heads? and are not yours in your hearts? is there not the ſame ſpring of enmity, root of bitterneſs, den of Darkneſs, and ſpawn of folly and mad<g ref="char:EOLhyphen"/>neſs in you as in them.</p>
+               <p>What if the Lord ſhould tear off your large Phylacteries of religion and righteouſneſs, and inſtead thereof ſtamp the foul image of that hidden enormity, which harbors ſecretly in your breaſt.</p>
+               <p>
+                  <pb n="22" facs="tcp:169843:20"/>
+What if God ſhould uncloke you, and ſtrip you of your lovely garbes of pretended holineſs, and ſhould let that apear which is hidden under this plea<g ref="char:EOLhyphen"/>ſing veſture?</p>
+               <p>Conſider, is there not in the beſt of you a body of death?</p>
+               <p>Is not the root of rebellion planted in your natures?</p>
+               <p>Is there not alſo a time for this wic<g ref="char:EOLhyphen"/>ked one to be revealed?</p>
+               <p>Do you think that God will not one time or other, one way or another di<g ref="char:EOLhyphen"/>ſcover and judge that fleſh, which now ſeems to ſleep ſecurely under the ſpe<g ref="char:EOLhyphen"/>cious pretences of righteouſneſs.</p>
+               <p>You little think, and leſs know, how ſoon the cup of fury may be put into your hands: my ſelf, with many others have been made ſtark drunk with that wine of wrath, the dregs whereof (for ought I know) may fall to your ſhare ſuddenly.</p>
+               <p>I ſpeak not this either to extenuate my own evil, or to caſt approbries in the face of thoſe who have (to the
+<pb n="23" facs="tcp:169843:20"/>utmoſt) cenſured me; but rather to mittigate the ſeverity of peoples ſpi<g ref="char:EOLhyphen"/>rits, and to give a by hint of that doom and judgement, that is at hand upon the world.</p>
+               <p>For my own part, I do moſt inge<g ref="char:EOLhyphen"/>niouſly and candidly confeſs, that the worſt of men cannot out-vie my ini<g ref="char:EOLhyphen"/>quity. Hell it ſelf cannot hatch that miſchiefe, which my heart hath not been a receptacle to imbrace; and if ever a proud Phariſee in the world dare ſtept up and plead his own inno<g ref="char:EOLhyphen"/>cency, let him caſt the firſt ſtone at me: If every man be found guilty, and there is none that doth good, why ſhould we ſo unſeemly envy, and not rather pitty (and lament over) each others miſeries.</p>
+               <p>But to return: being thus clouded from the preſence of the Lord, I was violently poſted through moſt dark paths, where I ever and anon ſtumbled and fell into the ſnare of open error and profaneneſs, led and hurried, (by what power let the wiſe judg) in a
+<pb n="24" facs="tcp:169843:21"/>principle of mad Zeal, to tear and rend the very appearances of God, which I had formerly cheriſhed in my breſt.</p>
+               <p>Delighting my ſelf in nothing but in that which rendred me moſt vile and ugly in the ſight of all men, and glorying in nought, but my own ſhame.</p>
+               <p>I could not have imagined that ſuch deadly poyſon had lodged within me, had not the dreadful piercing lance of vengeance, let it out before my face, and made it palpably manifeſt to all men.</p>
+               <p>I was indeed full ſick of wrath, a vial of wrath was given me to drink; the heavenly pleaſure would not ex<g ref="char:EOLhyphen"/>euſe me a drop of it; which no ſooner had fleſh received, but it burſt in ſun<g ref="char:EOLhyphen"/>der, polluted and defiled my wayes and actions, with its filthy poyſonous nature;</p>
+               <p>Well—drink I muſt, but mark the riddle.</p>
+               <p>'Twas given me, that I might drink, I drank, that I might ſtumble, I ſtum<g ref="char:EOLhyphen"/>bled,
+<pb n="25" facs="tcp:169843:21"/>that I might fall; I fell,
+<note place="margin">☜</note> and through my fall was made happy.</p>
+               <p>It is ſtrange to think, how the hidden and ſecret preſence of God in me, did ſilently rejoyce while fleſh was thus manife<g ref="char:EOLhyphen"/>ſted;</p>
+               <p>I had a ſweet reſt and refuge in the Lord,
+<note place="margin">Spiritual I, or the new man</note> even while my fleſh was frying and ſcorching in the flames of ireful fury.</p>
+               <p>I was ark'd up in the eternal boſome, while the fleſh was tumbling in the foaming ſurges of its own vanity:</p>
+               <p>And although the beaſt a<g ref="char:EOLhyphen"/>ſcended out of the bottomleſs pit, and caſt out a flood of envy againſt me, yet I was preſerved in the Lord from its inſulting fury: and this I know is a riddle to many,
+<note place="margin">Jeſus Chriſt.</note> which none but the true Nazarite can expound; and til he is pleaſed to unfold it, it pleaſes me it ſhould lie dark.</p>
+               <p>
+                  <pb n="26" facs="tcp:169843:22"/>
+But to conclude—</p>
+               <p>Thus have I been forc't into the ſtrange paths of obſcurity, driven up and down in a tem<g ref="char:EOLhyphen"/>peſtuous ſtorm of wrath, and ſplit upon the rocks of dreadful aſtoniſhment; All the waves and billows of the Almighty have gone over me.</p>
+               <p>I am now at reſt in the ſilent deeps of eternity, ſunk into the abyſſe of ſilence, and (having ſhot this perilous gulf) am ſafe<g ref="char:EOLhyphen"/>ly arrived into the boſome of love; the land of reſt.</p>
+               <p>I ſometimes hear from the world, which I have now for<g ref="char:EOLhyphen"/>ſaken; I ſee its Diurnals are fraught with the tydings of the ſame clamor, ſtrife, and con<g ref="char:EOLhyphen"/>tention, which abounded in it when I left it; I give it the hea<g ref="char:EOLhyphen"/>ring, and that's all.</p>
+               <p>I meddle with none-of them; though they are daily cenſuring me at their pleaſure.</p>
+               <p>
+                  <pb n="27" facs="tcp:169843:22"/>
+My lovely ſilence contributes ſo large a parcel of Peace to me, as that I would gladly be at Peace with all men: but yet ſuch is the reſtleſs fury of the diſturbed world, that it will not upon any terms enter into a league of concord with me.</p>
+               <p>I cannot inveigh againſt any form, party, or religious inte<g ref="char:EOLhyphen"/>reſt: it becomes not my ſweet ſilence, to bawl and brawl with the unquiet ſpirits of men, who are therefore ſwoln with mad<g ref="char:EOLhyphen"/>neſs, and frenzy againſt me, be<g ref="char:EOLhyphen"/>cauſe they cannot by their bit<g ref="char:EOLhyphen"/>ter emulation, either diſturb the peace and reſt of my ſpirit, or provoke me to a conteſt with them, upon ſuch poor baſe and beggerly terms.</p>
+               <p>I ſee there is nought that can ſatisfie under the Sun.</p>
+               <p>And certainly were men poſ<g ref="char:EOLhyphen"/>ſeſſed of that true enjoyment
+<pb n="28" facs="tcp:169843:23"/>which they pretend to, they would be better ſatisfied, and more at peace in their ſpirits.</p>
+               <p>My great deſire (and that wherein I moſt delight) is to ſee and ſay nothing.</p>
+               <p>I have run round the world of variety,
+<note place="margin">My mind is wholly bent to contem<g ref="char:EOLhyphen"/>plate that.</note> and am now cente<g ref="char:EOLhyphen"/>red in eternity; that is the womb out of which I was ta<g ref="char:EOLhyphen"/>ken, and to which my deſires are now reduced.</p>
+               <p>There is nothing in the world of ſo great amplitude, as to comprehend or contain my ſpirit within its meaſurable orb; ſomething that is more durable, then any thing that is extant in the world, is that which my ſouls preſs after.</p>
+               <p>And in the interim I find my ſelf moſtly comprehended, and beſt ſatisfied in my ſtill and ſi<g ref="char:EOLhyphen"/>lent reſerves.</p>
+               <p>I am, or would bee, very lit<g ref="char:EOLhyphen"/>tle, or nothing in ſhew, yet I
+<pb n="29" facs="tcp:169843:23"/>am indeed, both what I would be, or may deſire to be.</p>
+               <p>I am drawne, from off the ſtage of outward appearances, on which (of late) I have acted a moſt ſad and Tragicall part: I am bound in the cloſe Galle<g ref="char:EOLhyphen"/>ries with my beloved, where (under the ſweet verge of his Love, and ſhadow of his wing) I am wooed to refreſh my ſelfe with moſt mellifluous de<g ref="char:EOLhyphen"/>lights.</p>
+               <p>I am as the Lords Lillie a<g ref="char:EOLhyphen"/>mongſt Thornes; I ſtand in a very fertile ſoyl: though it be a valley, yet its both fat, rich, and pleaſant.</p>
+               <p>I cannot envy the Thornes that are about me, neither can they hurt mee; I grow quietly by them, ſtand peaceably a<g ref="char:EOLhyphen"/>mongſt them, and they are made (againſt their wills) a de<g ref="char:EOLhyphen"/>fenſive hedge about me.</p>
+               <p>In ſumm,</p>
+               <p>
+                  <pb n="30" facs="tcp:169843:24"/>
+While I view with a ſerious inſpection the ſtate of things about mee; I clearly perceive how every thing prides it ſelf in a momentany ſtate; when (alaſſe!) after it hath ſhewed it ſelf, it ſuddenly is ſwallowed up by that being whence it firſt came.</p>
+               <p>Every thing beares a conſtant and greedy motion towards the center; and when once we are wearied in the prolixity of va<g ref="char:EOLhyphen"/>riety, wee revolve into ſilence, where we are as if we had never been.</p>
+               <p>Every one ſtands up, <hi>Vi &amp; ar<g ref="char:EOLhyphen"/>mis,</hi> to plead the prerogative of his own intereſt; the World is ſo filled with Verboſity, that I am gladly conſtrained into ſi<g ref="char:EOLhyphen"/>lence, till I have time and op<g ref="char:EOLhyphen"/>portunity to offer my minde amongſt them.</p>
+               <p>I ſee partly what the end will be, but I muſt not declare, nei<g ref="char:EOLhyphen"/>ther
+<pb n="31" facs="tcp:169843:24"/>will the world hear it.</p>
+               <p>I have ſtept out of my ſilent Manſions, to offer theſe few words to the Vulgar view: how hardly I was perſwaded to it, my own heart can evidence, and many in my behalf can te<g ref="char:EOLhyphen"/>ſtifie: ſome engagements ur<g ref="char:EOLhyphen"/>ged me to it, more then any deſire of mine to become pub<g ref="char:EOLhyphen"/>lick.</p>
+               <p>I am quite a weary of popu<g ref="char:EOLhyphen"/>lar applauſe, and I little value a vulgar cenſure; the benefit of the one, cannot at all affect me, nor the prejudice of the other much moleſt me:</p>
+               <p>I enjoy greater treaſures in my happy ſilence, then all their cruelty can make me capable of the want of.</p>
+               <p>'Tis true I have loſt a good name, and honorable eſteem in the world.</p>
+               <p>I have alſo another name, which is a new one, which
+<pb n="32" facs="tcp:169843:25"/>none can read, but he that hath it; none can blaſt with the leaſt blot of infamy.</p>
+               <p>I can cheerfully bear the in<g ref="char:EOLhyphen"/>dignation of the Lord, for I have ſinned:</p>
+               <p>It is not for me to reply a<g ref="char:EOLhyphen"/>gainſt the dealings of the Eter<g ref="char:EOLhyphen"/>nal Wiſdome: it is rather good for mee to bear the yoke in my youth, with a Chriſtian ſilence and gravity.</p>
+               <p>I am made willing to give my
+<note n="*" place="margin">In any chriſtian conteſt.</note> cheek to the ſmiter, to ſit a<g ref="char:EOLhyphen"/>lone, (keeping ſilence) and put my mouth in the duſt: any thing with the Lord, is to mee very acceptable; nothing (with<g ref="char:EOLhyphen"/>out God) dares approach my quiet and ſtill Manſions.</p>
+               <p>In a word: I am able both to doe and to ſuffer all things tho<g ref="char:EOLhyphen"/>row an Eternall Almightineſſe: And reſolved I am to gaine a conqueſt over the World, by
+<pb n="33" facs="tcp:169843:25"/>proſtrating my ſelf a ſubject to their weakneſs.</p>
+               <p>I muſt ſubmit to them, that I may raign over them; and e<g ref="char:EOLhyphen"/>ven then I trample them under<g ref="char:EOLhyphen"/>neath my feet, when I am moſt ſubdued to their will and plea<g ref="char:EOLhyphen"/>ſure.</p>
+               <p>Well—to draw neer to my chamber, (for it's bad ſtanding without doors, while a ſtorm is impending) I am to this day ſet upon the account of a blaſphe<g ref="char:EOLhyphen"/>mer, a ſeducer: what not.</p>
+               <p>I will not ſay but I have gi<g ref="char:EOLhyphen"/>ven ſome former ground of ſu<g ref="char:EOLhyphen"/>ſpition, both by my unwary walking, and heedleſs expreſſi<g ref="char:EOLhyphen"/>ons.</p>
+               <p>Somewhat I have formerly vented in certain papers,
+<note place="margin">Eſpe<g ref="char:EOLhyphen"/>cially the book in<g ref="char:EOLhyphen"/>tituled divinity anatomi<g ref="char:EOLhyphen"/>zed.</note> which the weak ſtomacks of many can hardly digeſt: and truely I could heartily wiſh, that ſome expreſſions had been better
+<pb n="34" facs="tcp:169843:26"/>pondered; and not ſo untime<g ref="char:EOLhyphen"/>ly expoſed to a publick view: though I alſo beleeve, that if they were well chewed (and not ſo ſuddenly ſwallowed without reliſhing the nature of them) they would be better di<g ref="char:EOLhyphen"/>geſted then they are.</p>
+               <p>'Tis a vanity and ſore travail, for a man to unboſom his life in the face of a confuſed multi<g ref="char:EOLhyphen"/>tude; and to offer it up to the rude cenſure of the (no leſs mercyleſſe then) ignorant world.</p>
+               <p>I clearly ſee that the under<g ref="char:EOLhyphen"/>ſtandings of men (for the moſt part) are too groſs and corpu<g ref="char:EOLhyphen"/>lent, to turn and winde in the nice, and narrow criticiſmes of truth; their ſpirits too dull and plumbous to mount above their wonted notorious, and thread bare principles.</p>
+               <p>Whatſoever ſtands out of their Sphear, or bears, no prox<g ref="char:EOLhyphen"/>imity
+<pb n="35" facs="tcp:169843:26"/>to their commonly recei<g ref="char:EOLhyphen"/>ved maximes; muſt preſently be deemed as blaſphemy, and ſentenced to the infernal lake, as moſt odious and abomina<g ref="char:EOLhyphen"/>ble.</p>
+               <p>That which men call truth to day, they proclaim error to morrow: and that which now is adjudged and condemned as error, anon is embraced and extolled as truth. That man certainly is not otherwiſe, that will regard the uncertain cenſures of men.</p>
+               <p>Truely for my part, as I ſit ſtill and behold how the over<g ref="char:EOLhyphen"/>buſie world is acted; ſo I can quietly let them alone, to roul in their confuſed labyrinth: but becauſe in many things I have offended; and the froward ſpi<g ref="char:EOLhyphen"/>rits of men are not eaſily cour<g ref="char:EOLhyphen"/>ted to a pardon: I have here thought meet, to cite a ſmall parcel of the moſt crying errors
+<pb n="36" facs="tcp:169843:27"/>of the times; and (before I withdraw into my ſweet and ſafe retires) ſpend a little time in ſweeping them from my door; that ſo the evil of error, may not lie in the porch, to diſ<g ref="char:EOLhyphen"/>quiet my bleſſed reſt, and diſ<g ref="char:EOLhyphen"/>ſturb the ſweet ſlumbers of my ſilent manſions. Which done, I ſhall then as well reſolvedly, as quietly bid adeue to the wretched world; and wrap my ſelf up in my mantle of ſilence, where I ſhall refreſh my defeſ<g ref="char:EOLhyphen"/>ſed ſpirit with the pure naps of divine pleaſure, while the be<g ref="char:EOLhyphen"/>loved is pleaſed to awaken me into a more active ſtate.</p>
+               <p>Priefly then in one word.</p>
+               <p>I ſhall linck the moſt capital errors now extant, in one chain; and expulſe them by a free vote, form having any future commerce with me, or claiming the leaſt propinquity to my re<g ref="char:EOLhyphen"/>formed judgment.</p>
+            </div>
+            <div type="part">
+               <pb n="37" facs="tcp:169843:27"/>
+               <head>A ſincere Abdication of cer<g ref="char:EOLhyphen"/>tain Tenents, either for<g ref="char:EOLhyphen"/>merly vented by, or now charged upon the Author.</head>
+               <p>I Am daily accuſed as one that holds theſe horrid opinions. <hi>Viz.</hi> That there is no God; no Devil; no Heaven; no Hell; as one that denies the Scripture, and the bleſſed Trinity of the God-head; that ſaith there is no Sin; or otherwiſe that God is the author of Sin; theſe (a<g ref="char:EOLhyphen"/>mong others of leſs conſe<g ref="char:EOLhyphen"/>quence) are chiefly alledged a<g ref="char:EOLhyphen"/>gainſt me: to all which I reply, as followeth—.</p>
+            </div>
+            <div type="part">
+               <pb n="38" facs="tcp:169843:28"/>
+               <head>And firſt, of God.</head>
+               <p>THE fool hath ſaid in his heart,
+<note place="margin">Pſ. 14.1.</note> there is no God. 'Tis the greateſt folly and madneſs in the world to aſſert or give credit to it.</p>
+               <p>The wiſe man, whoſe eyes are in his head, cannot harbor ſuch a motion in his heart.</p>
+               <p>I wholly baniſh ſuch conceits from my minde;
+<note place="margin">Act. 17.25, 26, 27, 28.</note> and on the contrary aſſert,</p>
+               <p>That God is that pure and per<g ref="char:EOLhyphen"/>fect being in whom we ail are, move and live; that ſecret blood, breath, &amp; life, that ſilent<g ref="char:EOLhyphen"/>ly courſeth through the hidden veins and cloſe arteries of the whole creation.</p>
+               <p>Every thing both viſible and inviſible is fraught with his pre<g ref="char:EOLhyphen"/>ſence,
+<note place="margin">Col. 1.16, 17. Iſa. 45.8. Pſ. 65.8, 9, 10. &amp;c. Col. 3.11</note> &amp; brim'd up w<hi rend="sup">th</hi> the plen<g ref="char:EOLhyphen"/>tiful diſtils of a divine life: he is both all and in all,
+<note place="margin">Iſa. 54.16</note> he truly is, and there is nothing beſides him
+<pb n="39" facs="tcp:169843:28"/>that derives not power from him.</p>
+               <p>He hath but a weak eye, that ſees not the ſparkling beams of eternity, darting out their re<g ref="char:EOLhyphen"/>fulgent beauty in and through variety.</p>
+               <p>What madman or fool will then deny a divine and eternal being.</p>
+               <p>Where can we go,
+<note place="margin">Pſ. 19.1, 2, 3.4. If I de<g ref="char:EOLhyphen"/>ſcend in<g ref="char:EOLhyphen"/>to Hell, thou art there,</note> what can we do without him? heaven, hel, earth, ſea, ſun, moon, ſtars, al that you ſee, all that you poſſeſs, is ſweetly repleniſhed with the glory of this pure majeſty: eve<g ref="char:EOLhyphen"/>ry thing receives from him, and gives up to him.</p>
+               <p>More might be ſaid but I hope this is ſufficient to inform any reaſonable man, that I wholly abjure this conceit, or rather deceit of the world.</p>
+               <p>Now to the next.</p>
+            </div>
+            <div type="part">
+               <pb n="40" facs="tcp:169843:29"/>
+               <head>Of the Divell.</head>
+               <p>THe Divel is underſtood va<g ref="char:EOLhyphen"/>riouſly amongſt men: ei<g ref="char:EOLhyphen"/>ther groſly, or corpulently by ſome, or more ſubtilly and mi<g ref="char:EOLhyphen"/>ſtically by others.</p>
+               <p>I am not now either to ad<g ref="char:EOLhyphen"/>vance my own, or to fly in the face of any mans judgement. I am one under cenſure; it be<g ref="char:EOLhyphen"/>comes not me to be over-buſie in judging others, till I have cleared my ſelf.</p>
+               <p>They ſay, I hold no Di<g ref="char:EOLhyphen"/>vel —</p>
+               <p>Truly if any thing ever was vented by me, that is infected with the leaſt tang or tincture of ſuch a principle; I ſhall hear<g ref="char:EOLhyphen"/>tily deplore my own weakneſs in it, and ſhall be ready to diſ<g ref="char:EOLhyphen"/>own it, as the baſtard brat of a vain and empty notion.</p>
+               <p>
+                  <pb n="41" facs="tcp:169843:29"/>
+And on the contrary doe af<g ref="char:EOLhyphen"/>firm.</p>
+               <p>That the Divel,
+<note n="*" place="margin">A true hiſtory and pure miſtery Ep. Jude: v. 6. Pet. 2.2.4. 2. Theſ. 2. v. 3.4. 7.8.1. Sa. ch. 19. ve. 9. Job. 1. 12.2. cor. 12.7. Ep. 2.2. 2 Theſ. 2 9.</note> who was once an Angel of light, yet not keeping his firſt ſtate, became a Denne, and receptacle of dark<g ref="char:EOLhyphen"/>neſs; reſerved in chains from the preſence of the Lord til the great day.</p>
+               <p>He is that ſpirit or Myſtery of Iniquity, which continually envies God in his pure ways and workings.</p>
+               <p>That dark Angel, or Meſſen ger employed by the Almighty, to effect the purpoſes of his wrath and vengeance.</p>
+               <p>The Prince of the powers of the air; an airy faſhioniſt, that can aſſume any form: That can form,
+<note n="*" place="margin">Tranſ<g ref="char:EOLhyphen"/>form him ſelf into an Angel of light.</note> conform, reſoim, and deform at his pleaſure: one that chiefly rules in the hearts of the children of diſobedi<g ref="char:EOLhyphen"/>ence.</p>
+               <p>Let the wiſe judge, and the
+<pb n="42" facs="tcp:169843:30"/>righteous, gently ſmite me, if I deſerve cenſure in what I have ſpoken.</p>
+               <p>I proceed—</p>
+            </div>
+            <div type="part">
+               <head>Of Heaven.</head>
+               <p>Heaven is the center of the ſouls bliſs and happineſs.</p>
+               <p>I can in no wiſe deny it, be<g ref="char:EOLhyphen"/>cauſe my converſation is in it.
+<note place="margin">Phil. 3.20.</note>
+               </p>
+               <p>If there be no heaven, wheres our preſent enjoyment? Or what ſhal become of that fu<g ref="char:EOLhyphen"/>ture happineſs which we all ex<g ref="char:EOLhyphen"/>pect?
+<note place="margin">1 Cor. 15 19.</note>
+               </p>
+               <p>Heaven is the Chriſtians reſt, his divine Sabboth,
+<note place="margin">Rev. 14.13.</note> where he keeps holy day to the Lord.</p>
+               <p>Did I ever inſinuate a deniall of heaven? certainly it was be<g ref="char:EOLhyphen"/>cauſe the darkneſs of hel cover<g ref="char:EOLhyphen"/>ed my underſtanding.</p>
+               <p>To live with,
+<note place="margin">John 17.24.</note> and in God, to
+<pb n="43" facs="tcp:169843:30"/>be raiſed up into the nature and life of Chriſt out of the ſomno<g ref="char:EOLhyphen"/>lencie of fleſh,
+<note place="margin">Eph. 2.6.</note> is to live in the heavenly place; this we enjoy partly here, more fully here<g ref="char:EOLhyphen"/>after.</p>
+            </div>
+            <div type="part">
+               <head>Of Hell.</head>
+               <p>THat there is no Hell, I in no wiſe can imagine, but contrarywiſe ſay,—</p>
+               <p>That Hell is the appoynted portion of the
+<note n="*" place="margin">The wicked ſhall be turned into hel, and all the Na<g ref="char:EOLhyphen"/>tions that for<g ref="char:EOLhyphen"/>get God. Mat. 24.51. Tophet is prepared.</note> ſinner, where in ſinfull man is for ever to be tormented from the preſence of the Lord: the inhabitants of whoſe dark manſions are ever weeping, wailing, and gnaſhing of teeth.</p>
+               <p>Hell is a
+<note n="*" place="margin">The wicked ſhall be turned into hel, and all the Na<g ref="char:EOLhyphen"/>tions that for<g ref="char:EOLhyphen"/>get God. Mat. 24.51. Tophet is prepared.</note> Tophet of ſcorch<g ref="char:EOLhyphen"/>ing diſpleaſure; a fire kindled and maintained by the continu<g ref="char:EOLhyphen"/>ed breath of the Almighty,
+<pb n="44" facs="tcp:169843:31"/>whereby it becomes a dying, life, or rather, a living death. The breath or life of Eternity augments and increaſes this death and miſery, which death and hell hath a greedy Lake to receive it.</p>
+               <p>I hope malice it ſelf will con<g ref="char:EOLhyphen"/>ſent, that I am not guilty of this blaſphemy.</p>
+               <p>I therefore proceed for my ſweet invitations, to my ſilent feaſt, ſolemnize my devotions thitherward.</p>
+            </div>
+            <div type="part">
+               <head>Of the Scripture.</head>
+               <p>CHriſt is the Eternall word of the Father, the ſaving, teaching, enlightening Oracle of heaven, to whom the Scrip<g ref="char:EOLhyphen"/>tures aſcribe all honor and dig<g ref="char:EOLhyphen"/>nitie.</p>
+               <p>I do not remember that in a<g ref="char:EOLhyphen"/>ny
+<pb n="45" facs="tcp:169843:31"/>thing which I have written, or declared, I have given the captious world the leaſt ground to render me guilty of denying the Scriptures.</p>
+               <p>Yet becauſe I am charged with it through weakneſs and miſtake in ſome, malice and im<g ref="char:EOLhyphen"/>pudence in others, <hi>I</hi> give this ſa<g ref="char:EOLhyphen"/>tisfactory hint.</p>
+               <p>I own the Scriptures as the inſpirations of the Holy Ghoſt; to holy men of old: a hiſtory, or map of truth, wherein (if our learned Tranſlators have not deceived us) is contained a true diſcovery of the dealings of God with his people in former times, and ages of the world: wherein the life of many a pre<g ref="char:EOLhyphen"/>cious promiſe is lockt up. They are known to be the word of God to thoſe in whom the ſpirit declares them; others do but call them, not knowing them to be ſo.</p>
+               <p>
+                  <pb n="46" facs="tcp:169843:32"/>
+They bare Teſtimony to the great Oracle of Life and Salva<g ref="char:EOLhyphen"/>tion (Chriſt Jeſus.)
+<note place="margin">Joh. 5.38.39.40.</note> They are the letter,
+<note place="margin">2 Tim. 1.13.</note> &amp; ſound of truth. The form (and but the form) of ſound words where they are not corrupted with the falſe gloſſes of the learned.</p>
+               <p>
+                  <hi>I</hi> muſt embrace them, own them, honour them; yea, I can<g ref="char:EOLhyphen"/>not but delight in them, becauſe they bear the image and feature of that pure word which was from the begining,
+<note place="margin">Joh. 1.1.2.</note> and is to e<g ref="char:EOLhyphen"/>verlaſting.</p>
+            </div>
+            <div type="part">
+               <head>Of ſin, or God being the Author of ſin.</head>
+               <p>THe vulgar cenſure, is, a ma<g ref="char:EOLhyphen"/>ny headed ill favoured monſter, it lookes many waies; it favourably entertains, and ſmoothly invites, and eagerly gapes after all reports whatſo<g ref="char:EOLhyphen"/>ever.</p>
+               <p>
+                  <pb n="47" facs="tcp:169843:32"/>
+Some ſay I hold no ſinn, and with the ſame mouth will be apt to conclude that I make God the author of ſinn: Here muſt needs be a groſs miſtake on the one hand or other certainely.</p>
+               <p>I humbly acknowledg my over readineſs to preſent ſome noti<g ref="char:EOLhyphen"/>ons of this nature to a publique view:
+<note place="margin">In Divi<g ref="char:EOLhyphen"/>nity ana<g ref="char:EOLhyphen"/>tomized.</note> If any things that I have written, will claime relation to theſe, I here recede them, and leave them to the mercy, or ra<g ref="char:EOLhyphen"/>ther judgment of thoſe to whom their nakedneſſe and folly are palpably evident: and further ſay concerning ſin,</p>
+               <p>That ſin is that contagious le<g ref="char:EOLhyphen"/>proſie,
+<note place="margin">Pſ. 14.2, 3. Rom. 3.10. Prov. 20.9.</note> which hath Epidemical<g ref="char:EOLhyphen"/>ly ſpread it ſelf over the whole earth.</p>
+               <p>Neither the
+<note n="*" place="margin">The righte<g ref="char:EOLhyphen"/>ous ſin<g ref="char:EOLhyphen"/>eth ſeven times a day.</note> righteous nor the wicked are free from it.</p>
+               <p>Sin is a tranſgreſſion of the Law: unity was once the Law of man, he brake the Unity, run in<g ref="char:EOLhyphen"/>to
+<pb n="48" facs="tcp:169843:33"/>to the wilie intangles of deviſi<g ref="char:EOLhyphen"/>on and diſtance, and did plunge himſelf into the gulfe of ſin, the abyſſs of miſery.</p>
+               <p>The Law or Command of U<g ref="char:EOLhyphen"/>nity,
+<note place="margin">Exod. 20 ver. 3.</note> was to know one, and on<g ref="char:EOLhyphen"/>ly one (God.) Man will know more then one; know himſelf in a ſtate of diviſion;
+<note place="margin">Gen 3.5, 6.</note> here creeps in ſin, and brings down man from his uprightneſs, under a ſtate of obliquity.</p>
+               <p>Man, as man growing from the root of the firſt <hi>Adam,</hi>
+                  <note place="margin">1 John. 18.10.</note> (the Earthly-fallen principle) is no<g ref="char:EOLhyphen"/>thing elſe but a maſſie heap of ſin, a curſed lump of foul impi<g ref="char:EOLhyphen"/>ety, and muſt certainly expect to receive the wages of iniqui<g ref="char:EOLhyphen"/>tie.</p>
+               <p>Sin makes every thing a curſe and bitterneſs to us.</p>
+               <p>Were it not for this ſin (or breach of the Law of Unity) all things would be ſweetned with
+<pb n="49" facs="tcp:169843:33"/>bleſſing, yea, bleſt with a Divine ſweetneſs.</p>
+               <p>Death it ſelf, the bittereſt potion of ſorrow, would be nectarized with a pleaſant dul<g ref="char:EOLhyphen"/>citude, which (through ſin) brings with it,
+<note place="margin">1 Cor: 15.56.</note> (and bears in it) an unpleaſing mordacity.</p>
+               <p>In fine, tis ſin that corrupts our judgements, ſtains our na<g ref="char:EOLhyphen"/>tures, burthens our ſpirits, and betrays our ſouls into the ſnares of endleſs, and eaſleſs Torment.</p>
+               <p>Again,</p>
+               <p>This being the lothſome na<g ref="char:EOLhyphen"/>ture of ſin, who will dare to be ſo impudent as to affirm, That God is the Author of it? tis true, the Scripture in many pla<g ref="char:EOLhyphen"/>ces ſeem to countenance ſuch a thing, if not wiſely and ſoberly interpreted.</p>
+               <p>But it is not my work, as I ſaid before, to condemn any, before I have cleared my ſelfe:
+<pb n="50" facs="tcp:169843:34"/>it is enough for me to exonerat my ſpirit of that load which is laid upon me by a fair receſſion of the Error I ſtand charged with.</p>
+               <p>Let all therefore know,
+<note place="margin">1 Ioh: 1: 5.6.</note> That I look upon God to be a ſingle object of pure light, whoſe glo<g ref="char:EOLhyphen"/>rious nature cannot be touched with the leaſt tincture of dark. neſs; evill or ſin may not, can<g ref="char:EOLhyphen"/>not
+<note n="*" place="margin">He is of more pure eyes than to behold inquitie.</note> approach his perfectly pure preſence.</p>
+               <p>He is good (the good it ſelf) he doth good,
+<note place="margin">Mat. 19: 17.</note> nothing but good, al good: good is God, there's no<g ref="char:EOLhyphen"/>thing good but himſelf.</p>
+               <p>Men, the beſt of men, things, the moſt excellent of things, they are all vanity &amp; a lye, worſe then vanity, vexation of Spi<g ref="char:EOLhyphen"/>rit.</p>
+               <p>God, the Unity is good: all vertue, and true worth is bund<g ref="char:EOLhyphen"/>ledup in it. Contrary wiſe—The Divel, diviſion, diſtance, ſin,
+<pb n="51" facs="tcp:169843:34"/>they are naught, ſtark naught; evil, nothing but evil, continu<g ref="char:EOLhyphen"/>ally evil.</p>
+               <p>The Divel is a lye, believe him not; ſin is a lye; all that you ſee below beſides God, it is a lie, froth, emptineſs, winde and con<g ref="char:EOLhyphen"/>fuſion.</p>
+               <p>God hath nothing to do with any thing that exiſteth not in himſelf, or is divided from him<g ref="char:EOLhyphen"/>ſelf: he is not the Author of di<g ref="char:EOLhyphen"/>viſion:
+<note place="margin">Col. 3.11</note> he is all one in all vari<g ref="char:EOLhyphen"/>ety: the divider is the Divel, God knows him not: the divi<g ref="char:EOLhyphen"/>ſion is ſin, God owns it not.</p>
+               <p>I ſay not then that God is the Author of ſin.</p>
+            </div>
+            <div type="part">
+               <pb n="52" facs="tcp:169843:35"/>
+               <head>Laſtly, Of the Tri<g ref="char:EOLhyphen"/>nity.</head>
+               <p>GOD is one ſimple, ſingle; uncompounded glory: no<g ref="char:EOLhyphen"/>thing lives in him or flows from him, but what is his pure individual ſelf.</p>
+               <p>Unity is the Father, the Au<g ref="char:EOLhyphen"/>thor and begetter of all things; or (if you will) the Grandmo<g ref="char:EOLhyphen"/>ther in whoſeintrinſecal womb, variety lies occult, till time or<g ref="char:EOLhyphen"/>derly brings it forth.</p>
+               <p>Chriſt ſayes of himſelf,
+<note place="margin">Ion. 14.9.</note> I and the Father am one: and the Apoſtle ſaith,
+<note place="margin">1 Ioh. 5.7.</note> there are three that bare record in Hea<g ref="char:EOLhyphen"/>ven; the Father, the Word, and Spirit, and theſe three are one. Without controverſie, great is the myſtery.</p>
+               <p>
+                  <pb n="53" facs="tcp:169843:35"/>
+In the multiplicity or varie<g ref="char:EOLhyphen"/>ty they are three, but in the u<g ref="char:EOLhyphen"/>nity or primary ſtate, all one, but one.</p>
+               <p>The Father is not the Son, the Son is not the Spirit, as multiplied into form and di<g ref="char:EOLhyphen"/>ſtance; I may lawfully and muſt neceſſarily maintain three: —but then again trace them by their lineal diſcent into the womb of eternity, revolve to the center, and where is the difference?</p>
+               <p>The unity or Father in it ſelf, is a maſſy heap of an undiſco<g ref="char:EOLhyphen"/>vered glory, which branches out it ſelf into an orderly varie<g ref="char:EOLhyphen"/>ty, and ſo admits of various names and titles: Father, Son, Spirit, three in name, but all one in nature.</p>
+               <p>Unity without variety, is like the
+<note n="*" place="margin">Gen. 2.21.</note> man in the Garden, ſolita<g ref="char:EOLhyphen"/>rily ſlumbering in its owne pro<g ref="char:EOLhyphen"/>found retires; having nothing to delight in but it ſelf.</p>
+               <p>
+                  <pb n="54" facs="tcp:169843:36"/>
+The Father will not therfore be without the Son,
+<note place="margin">Gen. 2.18.</note> without the Spirit: It is not fit the Man ſhould be alone.</p>
+               <p>But then again to contemplate variety without Unity, is to bee over-much expenſive upon the weakneſs, and to ſet up the wo<g ref="char:EOLhyphen"/>man without the man, which are not indeed two, but one in Chriſt.</p>
+               <p>I love the Unity, as it orderly diſcovers it ſelf in the Trinity: I prize the Trinity, as it beares correſpondency with the Unity; Let the skilfull <hi>Ordipus</hi> unfold this.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
